@@ -1,0 +1,6 @@
+Satellite,Position_X,Position_Y,Velocity_X,Velocity_Y,Collision
+Satellite 1,1000,0,0,7,Yes
+Satellite 2,1100,0,0,7,Yes
+Satellite 3,1200,0,0,7,Yes
+Satellite 4,1500,0,0,6,No
+Satellite 5,1600,0,0,6,No
